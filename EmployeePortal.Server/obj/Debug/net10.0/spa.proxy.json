@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58924",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Lenovo\\Documents\\Proyectos\\EmployeePortal\\EmployeePortal.Server\\..\\employeeportal.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

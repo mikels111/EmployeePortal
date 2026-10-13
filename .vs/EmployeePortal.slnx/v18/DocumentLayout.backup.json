@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Proyectos\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991F4EDD-50DE-A499-0252-67BC3918CFB3}|EmployeePortal.Server\\EmployeePortal.Server.csproj|c:\\users\\lenovo\\documents\\proyectos\\employeeportal\\employeeportal.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{991F4EDD-50DE-A499-0252-67BC3918CFB3}|EmployeePortal.Server\\EmployeePortal.Server.csproj|solutionrelative:employeeportal.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 474,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Proyectos\\EmployeePortal\\EmployeePortal.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeePortal.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Proyectos\\EmployeePortal\\EmployeePortal.Server\\appsettings.json",
+              "RelativeToolTip": "EmployeePortal.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T08:22:58.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
