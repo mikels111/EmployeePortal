@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EmployeePortal.Server\\EmployeePortal.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "employeeportal.client\\employeeportal.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
